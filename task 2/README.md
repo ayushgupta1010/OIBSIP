@@ -1,1 +1,1 @@
-**Task 2: TRIBUTE PAGE**
+**Task 2: Tribute Page**
